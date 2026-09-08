@@ -27,7 +27,13 @@ ATM-Machine-Python/
 ├── ATM.py
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+├── .gitignore
+└── Screenshots/
+    ├── Welcome.png
+    ├── Login.png
+    └── Main-menu.png
+```
+
 ## 📸 Application Screenshots
 
 ### 🏧 Welcome Screen
